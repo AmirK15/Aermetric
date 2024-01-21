@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aermetric/static/css/main.679f0661.css",
+    "main.js": "/aermetric/static/js/main.e9208648.js",
+    "index.html": "/aermetric/index.html",
+    "main.679f0661.css.map": "/aermetric/static/css/main.679f0661.css.map",
+    "main.e9208648.js.map": "/aermetric/static/js/main.e9208648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679f0661.css",
+    "static/js/main.e9208648.js"
+  ]
+}
