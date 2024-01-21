@@ -1,0 +1,31 @@
+.info {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+.main {
+    text-align: center;
+    padding: 24px;
+    background: #eef2ff;
+    border-radius: 8px;
+}
+.title {
+    margin: 15px 0;
+    font-size: 22px;
+    font-weight: 600;
+}
+.image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.item {
+    margin-top: 7px;
+    font-size: 14px;
+    color: #626262;
+}
+.list {
+    margin-bottom: 20px;
+}

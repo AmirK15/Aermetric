@@ -1,0 +1,26 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 25px 0;
+}
+.page {
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #eef2ff;
+    color: #0009;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .4s ease;
+}
+
+.page:disabled {
+    background: #0a66c2;
+    color: #fff;
+}

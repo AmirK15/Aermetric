@@ -1,0 +1,18 @@
+.search {
+    background: #eef2ff;
+    border-radius: 8px;
+    border: 1px solid rgba(165,180,252, 1);
+}
+
+.searchLabel {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    padding: 10px;
+}
+
+.searchInput {
+    width: 100%;
+    background: transparent;
+    /* color: #000; */
+}

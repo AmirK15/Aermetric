@@ -1,0 +1,14 @@
+.primaryBtn {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 16px;
+    border-radius: 25px;
+    border: 1px solid #0a66c2;
+    color: #fff;
+    background: #0a66c2;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: 167ms;
+}
+.primaryBtn:hover {
+    background: #004182;
+}

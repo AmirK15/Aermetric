@@ -1,0 +1,38 @@
+.card {
+    position: relative;
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    background: #eef2ff;
+    border: 1px solid #eef2ff;
+    transition: all 0.3s;
+}
+.link:hover .card {
+    border-color: rgba(165,180,252, 1);
+    box-shadow: 0 0 #0000,0 0 #0000,0 10px 15px -3px rgba(0, 0, 0, 0.1),0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.cardImage {
+    width: 80px;
+    border-radius: 50%;
+}
+.cardName {
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.cardUniversity {
+    font-size: 14px;
+    color: #0009;
+}
+.cardId {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    color: #6565657e;
+    font-size: 13px;
+}
